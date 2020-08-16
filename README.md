@@ -1,4 +1,4 @@
-# LetsUpgrade
+# Amazon Web Services : EC2 
 Basic Steps to start with EC2 Instances and install web server on perticular instance
 
 PROJECT 1:
